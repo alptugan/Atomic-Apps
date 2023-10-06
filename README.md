@@ -13,6 +13,16 @@ With Automator, you can run Shell commands, launch applications, run scripts, an
 
 Here's a list of the currently available Atomic Apps that you can download from the [Releases](https://github.com/alptugan/Atomic-Apps/releases/tag/v1.0) 📦  page and start using right away!
 
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 80%;
+}
+</style>
+
+
 | Name            | Description |
 | ----------------: |:----------- |
 | create_README 📝 | Creates a ReadMe.md file in the current directory and opens it in Visual Studio Code. |
