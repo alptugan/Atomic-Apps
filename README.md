@@ -11,13 +11,26 @@ With Automator, you can run Shell commands, launch applications, run scripts, an
 
 # Atomic App List
 
-🚀 Here's a list of the currently available Atomic Apps that you can download from the :[Releases]() page and start using right away!
+Here's a list of the currently available Atomic Apps that you can download from the [Releases](https://github.com/alptugan/Atomic-Apps/releases/tag/v1.0) 📦  page and start using right away!
 
 | Name | Description |
 | ---: |:----------- |
-| create_README       | Creates a ReadMe.md file in the current directory and opens it in Visual Studio Code. |
-| open_folder_in_Code | Opens the current directory in Visual Studio Code.                                    |
-Upcoming Atomic App | Description |
+| create_README 📝      | Creates a ReadMe.md file in the current directory and opens it in Visual Studio Code. |
+| open_folder_in_Code 📁 | Opens the current directory in Visual Studio Code.                                    |
+Upcoming Atomic App ❔ | Description |
 
 # Installation
+
+1. Download the app from the [Releases](https://github.com/alptugan/Atomic-Apps/releases/tag/v1.0) 📦  page or create one referring to the [Medium Article 📖 ](https://medium.com/@alptuan/automate-common-tasks-on-mac-with-atomic-apps-boost-your-productivity-352e83be9936).
+
+2. You can change the icon of the app as follows;
+![How set custom icon for app on Mac OS](documentation/medium_atomic_apps_gif2.gif)
+
+3. Hold down the <span style="color:#ffcc00">⌘</span> key, <span style="color:#ffcc00">click and drag</span> the app to the Finder Toolbar as follows.
+![Add apps to Finder Toolbar](documentation/medium_atomic_apps_gif3.gif)
+
+# Build Atomic Apps Using Automator
+
+Follow the tutorial on my [Medium Article 📖 ](https://medium.com/@alptuan/automate-common-tasks-on-mac-with-atomic-apps-boost-your-productivity-352e83be9936) to learn how to build an Atomic App using Automator.
+
 
