@@ -15,10 +15,10 @@ Here's a list of the currently available Atomic Apps that you can download from 
 
 <style>
 table th:first-of-type {
-    width: 20%;
+    width: 30%;
 }
 table th:nth-of-type(2) {
-    width: 80%;
+    width: 50%;
 }
 </style>
 
