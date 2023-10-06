@@ -13,11 +13,8 @@ With Automator, you can run Shell commands, launch applications, run scripts, an
 
 Here's a list of the currently available Atomic Apps that you can download from the [Releases](https://github.com/alptugan/Atomic-Apps/releases/tag/v1.0) 📦  page and start using right away!
 
-
-
-
-| Name            | Description |
-| ----------------: |:----------- |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name           | Description |
+| --------------: |:----------- |
 | create_README 📝 | Creates a ReadMe.md file in the current directory and opens it in Visual Studio Code. |
 | open_folder_in_Code 📁 | Opens the current directory in Visual Studio Code.|
 Upcoming Atomic App ❔ | Description |
@@ -37,11 +34,3 @@ Upcoming Atomic App ❔ | Description |
 Follow the tutorial on my [Medium Article 📖 ](https://medium.com/@alptuan/automate-common-tasks-on-mac-with-atomic-apps-boost-your-productivity-352e83be9936) to learn how to build an Atomic App using Automator.
 
 
-<style>
-table th:first-of-type {
-    width: 30%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
