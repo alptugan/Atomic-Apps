@@ -1,5 +1,6 @@
 # Background
 
+
 🚀 This repo includes a set of tools, what I call Atomic Apps, that can boost your productivity while working on your Mac 💻. I use these apps every day to automate repetitive tasks 🔄 and save time ⏰. Give them a try and see how they can revolutionize your workflow 🤖!
 
 You can read more about Atomic Apps and how to create your own on my [Medium Article 📖 ](https://medium.com/@alptuan/automate-common-tasks-on-mac-with-atomic-apps-boost-your-productivity-352e83be9936)
@@ -13,11 +14,11 @@ With Automator, you can run Shell commands, launch applications, run scripts, an
 
 Here's a list of the currently available Atomic Apps that you can download from the [Releases](https://github.com/alptugan/Atomic-Apps/releases/tag/v1.0) 📦  page and start using right away!
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name           | Description |
-| --------------: |:----------- |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name | Description                                                                           |
+| -------: | :--------- |
 | create_README 📝 | Creates a ReadMe.md file in the current directory and opens it in Visual Studio Code. |
-| open_folder_in_Code 📁 | Opens the current directory in Visual Studio Code.|
-Upcoming Atomic App ❔ | Description |
+| open_folder_in_Code 📁 | Opens the current directory in Visual Studio Code.                                    |
+| Upcoming Atomic App ❔ | Description                                                                           |
 
 # Installation
 
